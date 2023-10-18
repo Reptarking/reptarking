@@ -1,7 +1,6 @@
 ### Hi there, i'm JD
-- I'm actively engaged in data projects, where I'm leveraging data analysis and visualization to uncover valuable insights and make data-driven decisions for various aspects of my work.
-- I'm in the process of acquiring new skills in web full stack development and cloud computing. I'm taking courses, practicing with web technologies, and familiarizing myself with cloud platforms like AWS, Azure, and Google Cloud to stay at the forefront of technology.
-- I'm on the lookout for collaboration opportunities within your company, particularly in the creation of innovative technology products. I'm eager to contribute my skills in data analysis, web development, and cloud computing to help drive the development of cutting-edge solutions and bring value to our customers and partners.
+
+I'm actively engaged in data projects, leveraging data analysis and visualization for informed decision-making. I'm currently deepening my skills in web full stack development and cloud computing to stay ahead in the tech world. I'm excited about opportunities to collaborate on creating innovative technology products that bring value to our users.
 <!--
 **Reptarking/reptarking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
