@@ -1,7 +1,11 @@
 TECHNOLOGY MANAGER ~ DATA ANALYTICS EXPERT
 ------------------------------------------
 
-I'm actively engaged in data projects, leveraging data analysis and visualization for informed decision-making. I'm currently deepening my skills in web full stack development and cloud computing to stay ahead in the tech world. I'm excited about opportunities to collaborate on creating innovative technology products that bring value to our users.* 🌍  I'm based in Lima, Peru* ✉️  You can contact me at [jdsaquico@hotmail.com](mailto:jdsaquico@hotmail.com)* 🧠  I'm learning Mlops, Cloud Computing.* 🤝  I'm open to collaborating on Startups & Bigs Companies
+I'm actively engaged in data projects, leveraging data analysis and visualization for informed decision-making. I'm currently deepening my skills in web full stack development and cloud computing to stay ahead in the tech world. I'm excited about opportunities to collaborate on creating innovative technology products that bring value to our users.
+* 🌍  I'm based in Lima, Peru
+* ✉️  You can contact me at [jdsaquico@hotmail.com](mailto:jdsaquico@hotmail.com)
+* 🧠  I'm learning Mlops, Cloud Computing.
+* 🤝  I'm open to collaborating on Startups & Bigs Companies
 
 ### Skills
 
